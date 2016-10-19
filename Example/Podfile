@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BBQ_Example' do
+  pod 'BBQ', :path => '../'
+
+  target 'BBQ_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

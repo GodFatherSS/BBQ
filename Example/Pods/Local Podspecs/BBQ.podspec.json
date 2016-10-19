@@ -1,0 +1,22 @@
+{
+  "name": "BBQ",
+  "version": "0.1.0",
+  "summary": "A short description of BBQ.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/GodFatherSS/BBQ",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Seth": "shishu@ehousechina.com"
+  },
+  "source": {
+    "git": "https://github.com/GodFatherSS/BBQ.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BBQ/Classes/**/*"
+}
