@@ -12,5 +12,5 @@
 
 - (void)sayHello;
 - (void)sayHaha;
-
+- (void)sayWangwang;
 @end

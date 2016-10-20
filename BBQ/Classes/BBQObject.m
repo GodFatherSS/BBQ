@@ -17,5 +17,7 @@
 - (void)sayHaha {
     NSLog(@"Haha!");
 }
-
+- (void)sayWangwang {
+    NSLog(@"Wangwang!");
+}
 @end
